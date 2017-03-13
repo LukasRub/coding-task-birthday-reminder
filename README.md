@@ -41,5 +41,7 @@ It would be great if you would use git VCS for the development of this small pro
 
 USAGE: 
 python birthday_reminder.py -h  // for help
+
 python birthday_reminder.py -action validate // for validation
+
 python birthday_reminder.py -action checkbdays // for birthday calculations
